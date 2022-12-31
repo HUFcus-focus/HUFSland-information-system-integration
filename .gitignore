@@ -1,5 +1,6 @@
 # Mac OS
 .DS_Store
 
-# Python 
+# Python
 __pycache__
+.mypy_cache
